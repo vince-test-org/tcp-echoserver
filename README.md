@@ -4,7 +4,7 @@ For personal test.
 
 Return based on input
 
-- number: return number + 1
+- number: return number - 1
 - etc: return itself
 
 ### env
